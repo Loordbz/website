@@ -8,10 +8,10 @@ function Navbar() {
       <header className="header">
         <nav className="nav">
           <ul className="nav-list">
-            <li><Link to="/">Início</Link></li>
-            <li><Link to="sobre">Sobre</Link></li>
-            <li><Link to="projetos">Projetos</Link></li>
-            <li><Link to="contato">Contato</Link></li>
+            <li><Link to="/website">Início</Link></li>
+            <li><Link to="/website/sobre">Sobre</Link></li>
+            <li><Link to="/website/projetos">Projetos</Link></li>
+            <li><Link to="/website/contato">Contato</Link></li>
           </ul>
         </nav>
       </header>

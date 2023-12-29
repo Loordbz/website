@@ -71,7 +71,7 @@ export default function Home() {
           <h2>Bem-vindo ao meu portifólio</h2>
         </div>
         <div className="txt3">
-          <h3><Link to="/projetos">Vamos começar?</Link></h3>
+          <h3><Link to="/website/projetos">Vamos começar?</Link></h3>
         </div>
         <div className="linguagens">
           <img alt="Csharp" className="Csharp" onClick={() => onClick("Csharp")} src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
