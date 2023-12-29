@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 83vh;
+  justify-content: space-around;
+}
+
+.textoErro {
+  display: flex;
+  text-align: center;
+  font-size: 2.8em;
+  justify-content: center;
+}
+
+.teclado {
+  height: 100px;
+}

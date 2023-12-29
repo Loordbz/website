@@ -1,0 +1,22 @@
+.busca {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center; 
+  height: 83vh;
+}
+
+input {
+  background-color: #fff;
+  border-radius: 8px;
+  border: 3px solid;
+  width: 300px;
+  padding: 10px;
+}
+
+.lista {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  justify-content: center;
+}
